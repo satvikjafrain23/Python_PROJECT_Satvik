@@ -1,0 +1,116 @@
+[
+  {
+    "name": "Aarav Sharma",
+    "roll_number": "101",
+    "class_name": "Class 10-A",
+    "gender": "Male",
+    "dob": "",
+    "marks": {
+      "Mathematics": 95.0,
+      "Science": 92.0,
+      "English": 88.0,
+      "Social Studies": 90.0,
+      "Computer Science": 98.0
+    },
+    "total_marks": 463.0,
+    "max_marks": 500.0,
+    "percentage": 92.6,
+    "grade": "A+",
+    "status": "PASSED"
+  },
+  {
+    "name": "Priya Patel",
+    "roll_number": "102",
+    "class_name": "Class 10-A",
+    "gender": "Female",
+    "dob": "",
+    "marks": {
+      "Mathematics": 84.0,
+      "Science": 79.0,
+      "English": 86.0,
+      "Social Studies": 80.0,
+      "Computer Science": 90.0
+    },
+    "total_marks": 419.0,
+    "max_marks": 500.0,
+    "percentage": 83.8,
+    "grade": "A",
+    "status": "PASSED"
+  },
+  {
+    "name": "Rohan Verma",
+    "roll_number": "103",
+    "class_name": "Class 10-B",
+    "gender": "Male",
+    "dob": "",
+    "marks": {
+      "Mathematics": 65.0,
+      "Science": 70.0,
+      "English": 72.0,
+      "Social Studies": 68.0,
+      "Computer Science": 75.0
+    },
+    "total_marks": 350.0,
+    "max_marks": 500.0,
+    "percentage": 70.0,
+    "grade": "B",
+    "status": "PASSED"
+  },
+  {
+    "name": "Ananya Iyer",
+    "roll_number": "104",
+    "class_name": "Class 10-A",
+    "gender": "Female",
+    "dob": "",
+    "marks": {
+      "Mathematics": 98.0,
+      "Science": 96.0,
+      "English": 94.0,
+      "Social Studies": 91.0,
+      "Computer Science": 99.0
+    },
+    "total_marks": 478.0,
+    "max_marks": 500.0,
+    "percentage": 95.6,
+    "grade": "A+",
+    "status": "PASSED"
+  },
+  {
+    "name": "himanshu rai",
+    "roll_number": "21",
+    "class_name": "class 12th A",
+    "gender": "Male",
+    "dob": "",
+    "marks": {
+      "Mathematics": 99.0,
+      "Science": 69.0,
+      "English": 89.0,
+      "Social Studies": 95.0,
+      "Computer Science": 16.0
+    },
+    "total_marks": 368.0,
+    "max_marks": 500.0,
+    "percentage": 73.6,
+    "grade": "B",
+    "status": "FAILED"
+  },
+  {
+    "name": "Satvik",
+    "roll_number": "69",
+    "class_name": "12th Fail",
+    "gender": "Male",
+    "dob": "",
+    "marks": {
+      "Mathematics": 80.0,
+      "Science": 90.0,
+      "English": 13.0,
+      "Social Studies": 50.0,
+      "Computer Science": 77.0
+    },
+    "total_marks": 310.0,
+    "max_marks": 500.0,
+    "percentage": 62.0,
+    "grade": "C",
+    "status": "FAILED"
+  }
+]
